@@ -44,3 +44,4 @@ channel.txt
 assets/META-INF
 .project
 .classpath
+.idea/misc.xml
