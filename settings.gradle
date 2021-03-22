@@ -1,0 +1,2 @@
+rootProject.name='DrouterDemo2'
+include ':app', ':drouter-api-stub'
